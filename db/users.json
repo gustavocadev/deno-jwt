@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "gustavoca",
+            "password": "$2a$10$1adFFD5QCijiOJTFj.KCvuMhYDYCogpIn2YE55Job6QDbWd937pua",
+            "id": "4b06d547-246c-4786-8cd9-8cd27ea95170"
+        },
+        {
+            "username": "sarah",
+            "password": "$2a$10$rAJnQmysfG8cr8qlWR4ca.J/OWLWmeUloI1qz5u/pXAb/0B4NFnA.",
+            "id": "67ec5c2c-a178-417e-900b-fe680cf3b716"
+        },
+        {
+            "username": "gustavocadev",
+            "password": "$2a$10$Ste8qWX9BIPmxYrl1fXoBu9ffBpztK.xtgaKppkmyUHHXw4zFDGU.",
+            "id": "fbe9b50b-9b6b-486b-91de-032f91bb1159"
+        },
+        {
+            "username": "shira",
+            "password": "$2a$10$6DMVXy05vwYexcLaoVxXauj6UhMIeD31UaDwPicjasE4ImACjk8.u",
+            "id": "c18a2355-86ae-4327-b7f0-eff429c374dd"
+        },
+        {
+            "username": "mikael",
+            "password": "$2a$10$aBqkqE1FlYyA4IrVhXqUYuJoKBeMso.APf2YVr19zp15aLciWsQXa",
+            "id": "40340703-4559-4a0c-a059-cb5ecf813624"
+        }
+    ]
+}
